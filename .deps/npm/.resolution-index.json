@@ -1,0 +1,13 @@
+{
+  "contracts/comentarios.sol": {
+    "__sources__": {}
+  },
+  "contracts/4_Comentarios.sol": {
+    "__sources__": {
+      "contracts/4_Comentarios.sol": {
+        "content": "// SPDX-License-Identifier: MIT\r\npragma solidity >=0.8.2 <0.9.0;\r\n\r\ncontract Comentarios {\r\n    \r\n}",
+        "file": "contracts/4_Comentarios.sol"
+      }
+    }
+  }
+}
